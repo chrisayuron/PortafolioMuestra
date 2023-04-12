@@ -12,7 +12,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    font-size:10px;
+/*     font-size:10px; Este cambio no era necesario, fue solo de muestra para mostrar usa solicitud de merge*/
 }
 
 html,
